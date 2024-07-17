@@ -7,30 +7,32 @@ const navItems = [
     name: "Home",
     href: "/",
     subNavItems: [
-      {
-        id: 1,
-        name: "Home One",
-        href: "/",
-      },
-      {
-        id: 2,
-        name: "Home Two",
-        href: "/home2",
-      },
-      {
-        id: 3,
-        name: "Header Styles",
-        href: "/",
-        subItems: [
-          {
-            id: 1,
-            name: "Header One",
-            href: "",
-          },
-          { id: 2, name: "Header Two", href: "" },
-        ],
-      },
     ],
+    // subNavItems: [
+    //   {
+    //     id: 1,
+    //     name: "Home One",
+    //     href: "/",
+    //   },
+    //   {
+    //     id: 2,
+    //     name: "Home Two",
+    //     href: "/home2",
+    //   },
+    //   {
+    //     id: 3,
+    //     name: "Header Styles",
+    //     href: "/",
+    //     subItems: [
+    //       {
+    //         id: 1,
+    //         name: "Header One",
+    //         href: "",
+    //       },
+    //       { id: 2, name: "Header Two", href: "" },
+    //     ],
+    //   },
+    // ],
   },
   {
     id: 2,

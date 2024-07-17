@@ -53,7 +53,7 @@ const popularToursTwo = {
       title: "Umrah 7 Days Standard Package",
       superb: "8.3 Very Good",
       rate: "220,000",
-      airline: "Emi Etihad Airwaysrates",
+      airline: "Ethihad Airways",
       meta: ["2 days", "" , "Peshawar"],
     },
   ],
