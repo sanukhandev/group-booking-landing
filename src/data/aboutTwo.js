@@ -2,15 +2,15 @@ import image2 from "@/images/resources/about-two-img.jpg";
 import image1 from "@/images/shapes/about-two-shape.png";
 
 const text =
-  "There are many variations of passages of available but the majority have suffered alteration in some form, by injected hum randomised words which don't look even slightly.";
+  "Change your Place to Experience Spiritual Enlightenment. \n\nThere are many variations of Umrah packages available, but our tailored options ensure a hassle-free and fulfilling spiritual experience. Trust UmrahGuide to provide you with the best service, comfort, and guidance throughout your journey.";
 
 const aboutTwo = {
   image1,
   image2,
   videoId: "Get7rqXYrbQ",
   tagline: "Get to know us",
-  title: "We’re Travel Agency",
-  rightTexts: ["Change your Place to get Fresh Air", text],
+  title: "We're UmrahGuide",
+  rightTexts: ["Embark on a Sacred Journey", text],
   lists: [
     "Trust and Safety",
     "Best Price Guarantee",

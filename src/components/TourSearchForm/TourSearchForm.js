@@ -84,26 +84,36 @@ const TourSearchForm = () => {
       <div className="tour-search-one__inner">
         <div className="tour-search-one__inputs">
           <div className="tour-search-one__input-box">
-            <label htmlFor="place">Where to</label>
+            <label htmlFor="place">Agent Login</label>
             <input
               type="text"
-              placeholder="Enter keywords"
+              placeholder="Agent Code"
               name="place"
               id="place"
             />
           </div>
           <div className="tour-search-one__input-box">
-            <label>When</label>
-            <DatePicker
+            <label>Agent Email</label>
+            <input
+                type="email"
+                className="email-input"
+                placeholder="Email"
+            />
+            {/* <DatePicker
               selected={startDate}
               onChange={(date) => setStartDate(date)}
               className="hasDatepicker"
               placeholderText="September"
-            />
+            /> */}
           </div>
           <div className="tour-search-one__input-box tour-search-one__input-box-last">
-            <label htmlFor="type">Type</label>
-            <Select
+            <label htmlFor="type">Agent Password</label>
+            <input
+                type="password"
+                className="password-input"
+                placeholder="Password"
+            />
+            {/* <Select
               defaultValue={typeOptions[0]}
               name="type"
               options={typeOptions}
@@ -115,12 +125,12 @@ const TourSearchForm = () => {
                 IndicatorSeparator: () => null,
               }}
               instanceId="tourTypeSelect"
-            />
+            /> */}
           </div>
         </div>
         <div className="tour-search-one__btn-wrap">
           <button type="submit" className="thm-btn tour-search-one__btn">
-            Find now
+           Login
           </button>
         </div>
       </div>

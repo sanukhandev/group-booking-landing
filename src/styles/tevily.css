@@ -460,7 +460,9 @@ ul {
   align-items: center;
   justify-content: center;
 }
-
+.h-logo {
+  height:72px;
+}
 .main-menu__search,
 .main-menu__user {
   height: 50px;
@@ -2193,7 +2195,7 @@ ul {
 }
 
 .popular-tours__title {
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 34px;
   letter-spacing: -0.02em;
@@ -3814,7 +3816,7 @@ ul {
 }
 
 .singapore-tour__text {
-  font-size: 40px;
+  font-size: 21px;
   font-weight: 700;
   color: var(--thm-base);
   margin: 0;

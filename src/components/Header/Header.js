@@ -46,7 +46,7 @@ const Header = ({ pageTitle }) => {
                 </div>
                 <div className="main-header__top-right-btn-box">
                   <a href="#" className="thm-btn main-header__top-right-btn">
-                    Become a local guide
+                  Become a sub agent
                   </a>
                 </div>
               </div>
@@ -78,7 +78,7 @@ const Header = ({ pageTitle }) => {
                 <div className="main-menu-wrapper__logo">
                   <Link href="/">
                    
-                      <Image
+                      <Image className="h-logo"
                         src={pageTitle === "Home Two" ? logo2.src : logo.src}
                         alt=""
                       />

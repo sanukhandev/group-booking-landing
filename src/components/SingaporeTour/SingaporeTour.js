@@ -29,7 +29,7 @@ const SingaporeTour = () => {
               ))}
             </p>
             <a href="#" className="thm-btn singapore-tour__btn">
-              View Deals
+            VIEW PACKAGES
             </a>
           </div>
           <div className="singapore-tour__trusted">

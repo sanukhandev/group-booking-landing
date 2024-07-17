@@ -24,7 +24,7 @@ const SiteFooter = () => {
                   <div className="footer-widget__about-logo">
                     <Link href="/">
                      
-                        <Image src={logo.src} alt="" />
+                        <Image className="h-logo" src={logo.src} alt="" />
                       
                     </Link>
                   </div>
@@ -130,7 +130,7 @@ const SiteFooter = () => {
                 </div>
                 <div className="site-footer__bottom-right">
                   <p>
-                    @ All Copyright {year}, <a href="#">{author}</a>
+                  All rights reserverd to sabse sasta ticket designed by <a href="#">desertwhales LLC</a>
                   </p>
                 </div>
                 <div className="site-footer__bottom-left-arrow">

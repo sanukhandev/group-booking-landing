@@ -1,4 +1,4 @@
-import logo from "../assets/images/resources/footer-logo.png";
+import logo from "../assets/images/logo/logo-home.webp";
 
 const social = [
   { icon: "fa-twitter", link: "" },
@@ -18,13 +18,13 @@ const footerData = {
     {
       id: 1,
       icon: "fas fa-phone-square-alt",
-      content: "+ 92 666 999 0000",
+      content: "+ 92 311 110 0309",
       subHref: "tel",
     },
     {
       id: 2,
       icon: "fas fa-envelope",
-      content: "needhelp@company.com",
+      content: "info@sabsesastaticketgroup.com",
       subHref: "mailto",
     },
     {

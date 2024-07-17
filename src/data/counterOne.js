@@ -1,23 +1,24 @@
+
 const counterOne = [
   {
     id: 1,
-    text: "Total Donations",
-    count: 870,
+    text: "Satisfied Pilgrims",
+    count: 5000,
   },
   {
     id: 2,
-    text: "Campaigns Closed",
-    count: 480,
+    text: "Umrah Packages Booked",
+    count: 2500,
   },
   {
     id: 3,
-    text: "Happy People",
-    count: 930,
+    text: "Positive Reviews",
+    count: 4800,
   },
   {
     id: 4,
-    text: "Our Volunteers",
-    count: 63,
+    text: "Dedicated Team Members",
+    count: 200,
   },
 ];
 

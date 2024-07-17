@@ -95,7 +95,7 @@ const TourDetailsSidebar = () => {
           className="tour-details-two__sidebar-form"
         >
           <div className="tour-details-two__sidebar-form-input">
-            <input type="text" placeholder="Where to" name="place" />
+            <input type="text" placeholder=" toWhere" name="place" />
           </div>
           <div className="tour-details-two__sidebar-form-input">
             <input type="text" placeholder="When" name="when" />

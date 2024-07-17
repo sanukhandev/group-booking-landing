@@ -1,5 +1,5 @@
 import logo from "../assets/images/resources/logo-1.png";
-import logo2 from "../assets/images/resources/logo-2.png";
+import logo2 from "../assets/images/logo/logo-home.webp";
 
 const navItems = [
   {
@@ -34,7 +34,7 @@ const navItems = [
   },
   {
     id: 2,
-    name: "Destinations",
+    name: "Packages",
     href: "/destinations",
     subNavItems: [
       { id: 1, name: "Destinations", href: "/destinations" },
@@ -43,17 +43,7 @@ const navItems = [
   },
   {
     id: 3,
-    name: "Tours",
-    href: "/tours",
-    subNavItems: [
-      { id: 1, name: "Tours", href: "/tours" },
-      { id: 2, name: "Tours List", href: "/tours-list" },
-      { id: 3, name: "Tours Details", href: "/tour-details" },
-    ],
-  },
-  {
-    id: 4,
-    name: "Pages",
+    name: "Register",
     href: "",
     subNavItems: [{ id: 1, name: "About", href: "/about" }],
   },
@@ -68,7 +58,7 @@ const navItems = [
   },
   {
     id: 6,
-    name: "Contact",
+    name: "Contact Us",
     href: "/contact",
     subNavItems: [],
   },
@@ -86,13 +76,13 @@ const headerData = {
     {
       id: 1,
       icon: "icon-phone-call",
-      content: "+ 92 666 999 0000",
+      content: "+ 92 311 110 0309",
       subHref: "tel",
     },
     {
       id: 2,
       icon: "icon-at",
-      content: "needhelp@company.com",
+      content: "info@sabsesastaticketgroup.com",
       subHref: "mailto",
     },
   ],
