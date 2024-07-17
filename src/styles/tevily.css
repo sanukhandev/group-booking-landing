@@ -22,9 +22,9 @@
   --thm-reey-font: "reeyregular";
   --thm-gray: #787780;
   --thm-gray-rgb: 120, 119, 128;
-  --thm-primary: #e8604c;
+  --thm-primary: #d72027;
   --thm-primary-rgb: 232, 96, 76;
-  --thm-black: #313041;
+  --thm-black: #001f41;
   --thm-black-rgb: 49, 48, 65;
   --thm-base: #ffffff;
   --thm-base-rgb: 255, 255, 255;
@@ -461,7 +461,7 @@ ul {
   justify-content: center;
 }
 .h-logo {
-  height:72px;
+  height:44px;
 }
 .main-menu__search,
 .main-menu__user {
@@ -518,7 +518,7 @@ ul {
 
 .main-menu .main-menu__list > li,
 .stricky-header .main-menu__list > li {
-  padding-top: 33px;
+  padding-top: 35px;
   padding-bottom: 33px;
   position: relative;
 }
@@ -3767,6 +3767,7 @@ ul {
 
 .singapore-tour-bg {
   position: absolute;
+  height:138%;
   top: 0;
   left: 0;
   right: 0;
@@ -4560,6 +4561,7 @@ ul {
 }
 
 .book-now__btn {
+  width: max-content;
   font-size: 15px;
   background-color: var(--thm-black);
   padding: 17px 60px 16px;

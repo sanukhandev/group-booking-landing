@@ -21,7 +21,7 @@ const BookNow = () => {
               </div>
               <div className="book-now__right">
                 <a href="#" className="thm-btn book-now__btn">
-                BOOK YOUR UMRAH PACKAGE NOW
+                Contact An Agent
                 </a>
               </div>
             </div>
