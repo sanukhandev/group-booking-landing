@@ -43,7 +43,7 @@ class MyDocument extends Document {
           />
           <link rel="icon" href="../assets/logo/favicon.ico" />
           <link rel="manifest" href="../assets/logo/manifest.json" />
-          <meta name="description" content="Tevily NEXT JS Template For Tour" />
+          <meta name="description" content="Sabse sasta ticket" />
 
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link
