@@ -9,7 +9,7 @@ const popularToursTwo = {
       superb: "8.0 Superb",
       rate: "200,000",
       airline: "PIA",
-      meta: ["2 days", "" , "Karachi"],
+      meta: ["2 days", "", "Karachi"],
     },
     {
       id: 2,
@@ -18,7 +18,7 @@ const popularToursTwo = {
       superb: "9.0 Excellent",
       rate: "350,000",
       airline: "Emirates",
-      meta: ["2 days", "" , "Lahore"],
+      meta: ["2 days", "", "Lahore"],
     },
     {
       id: 3,
@@ -27,7 +27,7 @@ const popularToursTwo = {
       superb: "7.5 Good",
       rate: "150,000",
       airline: "Airblue",
-      meta: ["2 days", "" , "Islamabad"],
+      meta: ["2 days", "", "Islamabad"],
     },
     {
       id: 4,
@@ -36,7 +36,7 @@ const popularToursTwo = {
       superb: "8.5 Very Good",
       rate: "300,000",
       airline: "Saudia",
-      meta: ["2 days", "" , "Faisalabad"],
+      meta: ["2 days", "", "Faisalabad"],
     },
     {
       id: 5,
@@ -45,16 +45,16 @@ const popularToursTwo = {
       superb: "9.2 Excellent",
       rate: "400,000",
       airline: "Qatar Airways",
-      meta: ["2 days", "" , "Multan"],
+      meta: ["2 days", "", "Multan"],
     },
     {
       id: 6,
-      image: "popular-tours-two__img-6.jpg",
+      image: "popular-tours-two__img-5.jpg",
       title: "Umrah 7 Days Standard Package",
       superb: "8.3 Very Good",
       rate: "220,000",
       airline: "Ethihad Airways",
-      meta: ["2 days", "" , "Peshawar"],
+      meta: ["2 days", "", "Peshawar"],
     },
   ],
 };
