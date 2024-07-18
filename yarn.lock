@@ -2991,7 +2991,7 @@ thenify-all@^1.0.0:
   dependencies:
     any-promise "^1.0.0"
 
-tiny-slider-react@^0.5.4:
+tiny-slider-react@^0.5.7:
   version "0.5.7"
   resolved "https://registry.npmjs.org/tiny-slider-react/-/tiny-slider-react-0.5.7.tgz"
   integrity sha512-YTzPlyY9yI/v+c3h8BQ7dTHmCDtK8ghbaGD20FNqEPAySk1AR0aTaW6Iqhup5U7gJiWiUsfCHO31q8xEeuGsRQ==

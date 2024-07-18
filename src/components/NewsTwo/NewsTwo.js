@@ -59,7 +59,7 @@ const NewsTwo = () => {
               </div>
             </div>
           </Col>
-          <Col xl={8}>
+          <Col xl={4}>
             <div className="news-two__right">
               <div className="news-two__carousel">
                 <TinySlider settings={settings}>

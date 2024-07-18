@@ -3,17 +3,17 @@ import BannerTwo from "@/components/BannerTwo/BannerTwo";
 import BookNow from "@/components/BookNow/BookNow";
 import BrandTwo from "@/components/BrandTwo/BrandTwo";
 import CounterOne from "@/components/CounterOne/CounterOne";
-//import DestinationsTwo from "@/components/DestinationsTwo/DestinationsTwo";
+import DestinationsTwo from "@/components/DestinationsTwo/DestinationsTwo";
 import Layout from "@/components/Layout/Layout";
 import NewsTwo from "@/components/NewsTwo/NewsTwo";
 import PopularToursTwo from "@/components/PopularTours/PopularToursTwo";
 import SingaporeTour from "@/components/SingaporeTour/SingaporeTour";
 import ThreeIconBox from "@/components/ThreeIconBox/ThreeIconBox";
-// import TourTypes from "@/components/TourTypes/TourTypes";
+import TourTypes from "@/components/TourTypes/TourTypes";
 import VideoTwo from "@/components/VideoTwo/VideoTwo";
 import React from "react";
 
-const Home = () => {
+const Home2 = () => {
   return (
     <Layout pageTitle="Sabse Sasta ticket">
       <BannerTwo />
@@ -22,9 +22,9 @@ const Home = () => {
       <SingaporeTour />
       <VideoTwo />
       <CounterOne />
-      {/* <DestinationsTwo /> */}
+      <DestinationsTwo />
       <AboutTwo />
-      {/* <TourTypes /> */}
+      <TourTypes />
       <BrandTwo />
       <NewsTwo />
       <BookNow />
@@ -32,4 +32,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Home2;
