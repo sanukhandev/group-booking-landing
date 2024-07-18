@@ -15,7 +15,7 @@ const Header = ({ pageTitle }) => {
   return (
     <header
       className={`main-header${
-        pageTitle === "Home Two" ? " main-header-two" : ""
+        pageTitle === "Sabse Sasta ticket" ? " main-header-two" : ""
       } clearfix`}
     >
       <div className="main-header__top">
@@ -58,10 +58,10 @@ const Header = ({ pageTitle }) => {
         className={
           scrollTop
             ? `stricky-header stricked-menu main-menu${
-                pageTitle === "Home Two" ? " main-menu-two" : ""
+                pageTitle === "Sabse Sasta ticket" ? " main-menu-two" : ""
               } stricky-fixed slideInDown animated clearfix`
             : `main-menu${
-                pageTitle === "Home Two" ? " main-menu-two" : ""
+                pageTitle === "Sabse Sasta ticket" ? " main-menu-two" : ""
               } slideIn animated clearfix`
         }
       >
@@ -79,7 +79,7 @@ const Header = ({ pageTitle }) => {
                   <Link href="/">
                    
                       <Image className="h-logo"
-                        src={pageTitle === "Home Two" ? logo2.src : logo.src}
+                        src={pageTitle === "Sabse Sasta ticket" ? logo2.src : logo.src}
                         alt=""
                       />
                    
