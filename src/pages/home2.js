@@ -15,7 +15,7 @@ import React from "react";
 
 const Home2 = () => {
   return (
-    <Layout pageTitle="Home Two">
+    <Layout pageTitle="Sabse Sasta ticket">
       <BannerTwo />
       <ThreeIconBox />
       <PopularToursTwo />
