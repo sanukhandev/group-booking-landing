@@ -3136,6 +3136,7 @@ ul {
   border-radius: var(--thm-border-radius);
   transform: scale(1);
   transition: all 500ms ease;
+  height:350px;
 }
 
 .news-one__single:hover .news-one__img img {
@@ -4161,11 +4162,12 @@ ul {
 .about-two {
   position: relative;
   display: block;
+  padding-top:50px;
 }
 
 .about-two-shape {
   position: absolute;
-  top: -60px;
+  top: 60px;
   right: 170px;
 }
 
